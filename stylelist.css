@@ -11,7 +11,7 @@ body {
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0, 0, 0 , 0.1);
     width: 100%;
-    max-width: 620px;
+    max-width: 1240px;
     text-align: center;
 }
 h1, h2 {
@@ -105,4 +105,9 @@ th {
 
 .btn-editar:hover {
     background-color: #2f45c2;
+}
+
+.graficos {
+    display: flex;
+    justify-content: space-around;
 }

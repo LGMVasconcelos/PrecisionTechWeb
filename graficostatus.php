@@ -23,8 +23,8 @@
           legend: { position: 'bottom' }
         };
 
-        var chart = new google.visualization.PieChart(document.getElementById('donutchart'));
+        var chart = new google.visualization.PieChart(document.getElementById('donutchart2'));
         chart.draw(data, options);
       }
     </script>
-    <div id="donutchart" style="width: 620px; height: 420px;"></div>
+    <div id="donutchart2" style="width: 620px; height: 420px;"></div>
