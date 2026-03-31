@@ -1,18 +1,55 @@
-# PrecisionTech
+# PrecisionTech Web
 
-Sistema desenvolvido como atividade do curso técnico no SENAI.
+Aplicação web desenvolvida utilizando PHP e MySQL para visualização e gerenciamento de dados armazenados em banco de dados na nuvem.
 
-## Tecnologias
-- C#
-- Xamarin.Forms
-- PHP
-- MySQL (FreeDB)
-
-## Funcionalidades
-- Cadastro de dados
-- Visualização de informações em dashboard
-- Integração com banco de dados em nuvem
-- Aplicação multiplataforma (Web + Mobile)
+O sistema faz parte de um projeto multiplataforma, possuindo também versão mobile.
 
 ## Objetivo
-Projeto desenvolvido para simular um sistema utilizado por empresa fictícia, permitindo manipulação remota de dados.
+
+Permitir acesso aos dados da empresa fictícia PrecisionTech por meio de navegador, oferecendo:
+
+- visualização organizada das informações
+- dashboard com dados relevantes
+- manipulação completa do banco de dados
+- integração com aplicação mobile
+
+## Tecnologias utilizadas
+
+- PHP
+- MySQL
+- HTML
+- CSS
+- XAMPP
+- phpMyAdmin
+- FreeDB (banco de dados online)
+
+## Funcionalidades
+
+- CRUD completo
+- dashboard com visualização de dados
+- conexão com banco remoto
+- organização de informações em tabelas
+- integração com versão mobile do sistema
+
+## Arquitetura
+
+O sistema segue estrutura comum de aplicações web com separação entre:
+
+- interface
+- regras de negócio
+- acesso a dados
+
+Esse modelo facilita manutenção e evolução do projeto.
+
+## Contexto acadêmico
+
+Projeto desenvolvido individualmente no curso técnico em Desenvolvimento de Sistemas (SENAI), sendo continuação do projeto AppNuvem.
+
+O objetivo foi criar um sistema multiplataforma funcional simulando um ambiente empresarial real.
+
+## Autor
+
+Luiz Gustavo Morais Vasconcelos
+
+- Estudante de Engenharia de Software (UEM)
+- Curso Técnico em Desenvolvimento de Sistemas (SENAI)
