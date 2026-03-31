@@ -1,4 +1,4 @@
-# Nome do projeto
+# PrecisonTech
 
 Sistema desenvolvido como atividade do curso técnico no SENAI.
 
