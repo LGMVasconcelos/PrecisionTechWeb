@@ -64,7 +64,7 @@ $result = mysqli_query($conn, $sql_fabricantes);
             </tr>
             <br>
             <?php
-            $sql = "SELECT * FROM clientes";
+            $sql = "SELECT * FROM registros_producao";
             $stmt = $pdo->query($sql);
     
             while ($row = $stmt->fetch()) {
