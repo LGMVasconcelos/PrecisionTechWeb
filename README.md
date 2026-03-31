@@ -1,4 +1,4 @@
-# PrecisonTech
+# PrecisionTech
 
 Sistema desenvolvido como atividade do curso técnico no SENAI.
 
